@@ -17,7 +17,7 @@ Example Jupyter notebooks using the
      images with `castor_etc`. This feature allows the user to use the majority of the
      ETC's functionality (e.g., background estimation, aperture generation, etc.) with
      their own data.
-4. [Batch processing to generate a S/N table](TODO: make link)
+4. [Batch processing to generate a S/N table](./snr_table.ipynb)
    - Shows how to process many sources automatically. We find the integration time
      required to achieve some signal-to-noise (S/N) ratio in each of the telescope's
      passbands given sources at various magnitudes.
