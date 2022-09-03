@@ -21,3 +21,12 @@ Example Jupyter notebooks using the
    - Shows how to process many sources automatically. We find the integration time
      required to achieve some signal-to-noise (S/N) ratio in each of the telescope's
      passbands given sources at various magnitudes.
+5. [Customizing a Telescope object to include additional passbands/filters](./passbands_with_filters.ipynb)
+   - Demonstrates how to adapt a FORECASTOR Telescope object to include additional 
+   transmission curves. As a relevant example, we include new passbands corresponding
+   to the UV and u bands with the inclusion of either a longpass or bandpass filter,
+   and compute updated S/N tables accordingly.
+6. [Batch processing to generate a S/N table](./getting_started_uvmosSpectroscopy.ipynb)
+   - Illustrates the use of the UVMOS ETC for making S/N calculations for a given
+   input spectrum.
+   
