@@ -26,7 +26,7 @@ Example Jupyter notebooks using the
    transmission curves. As a relevant example, we include new passbands corresponding
    to the UV and u bands with the inclusion of either a longpass or bandpass filter,
    and compute updated S/N tables accordingly.
-6. [Batch processing to generate a S/N table](./getting_started_uvmosSpectroscopy.ipynb)
+6. [Getting started with UVMOS spectroscopy](./getting_started_uvmosSpectroscopy.ipynb)
    - Illustrates the use of the UVMOS ETC for making S/N calculations for a given
    input spectrum.
    
