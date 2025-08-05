@@ -30,8 +30,8 @@ Example Jupyter notebooks using the
    - Illustrates the use of the UVMOS ETC for making S/N calculations for a given
    input spectrum.
    
-7. [Using the UVMOS spectroscopy with your own data](./using_uvmos_with_own_data.ipynb)
+7. [Example using the UVMOS spectroscopy with your own data](./using_uvmos_with_own_data.ipynb)
    - Example uses synthetic flux data from a M star with the UVMOS ETC to make S/N calculations.
 
 8. [Example using UVMOS ETC spectroscopy point source](./using_uvmos_with_point_source.ipynb)
-   - This is another example using the UVMOS ETC for a M star during two different phases/temperatures. S/N calculations were done for the two phases for comparison.
+   - Example using the UVMOS ETC point source function for a M star during two different phases/temperatures. S/N calculations were done for the two phases for comparison.
