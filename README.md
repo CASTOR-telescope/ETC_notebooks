@@ -35,6 +35,8 @@ Example Jupyter notebooks using the
 
 8. [Example using UVMOS ETC spectroscopy point source](./using_uvmos_with_point_source.ipynb)
    - Example using the UVMOS ETC point source function for a M star during two different phases/temperatures. S/N calculations were done for the two phases for comparison.
+9. [Example using UVMOS ETC M_star_spectra Function](./using_uvmos_M_star_spectra_function.ipynb)
+   - Example using the UVMOS ETC M_star_spectra function for a M star during quiescence and flaring. S/N calculations were done for the two phases for comparison.
   
-9. [Guide to the Multi-Slit UVMOS ETC](./guide_to_multi_slit_uvmos_etc.ipynb)
+10. [Guide to the Multi-Slit UVMOS ETC](./guide_to_multi_slit_uvmos_etc.ipynb)
    - Demonstrates how to set up the multi-slit UVMOS ETC and goes through an example showing each of the different outputs.
