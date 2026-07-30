@@ -40,3 +40,6 @@ Example Jupyter notebooks using the
   
 10. [Guide to the Multi-Slit UVMOS ETC](./guide_to_multi_slit_uvmos_etc.ipynb)
    - Demonstrates how to set up the multi-slit UVMOS ETC and goes through an example showing each of the different outputs.
+
+11. [Getting started with the scene class](./getting_started_scenes.ipynb)
+   - Demonstrates how to use the scene class to define sources and build a scene.
